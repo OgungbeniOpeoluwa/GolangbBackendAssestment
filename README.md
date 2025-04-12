@@ -133,5 +133,3 @@ The program handles the following errors gracefully:
 
 **Error opening the log file**.
 
-# License
-
